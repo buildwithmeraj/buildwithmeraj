@@ -106,25 +106,25 @@ I'm a passionate full stack developer from Bangladesh, specializing in modern we
   <img src="https://github-readme-stats.vercel.app/api?username=buildwithmeraj&show_icons=true&theme=radical&hide_border=true&bg_color=000000&include_all_commits=true" width="48%"/>
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithmeraj&theme=radical&hide_border=true&background=000000&stroke=FF69B4" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithmeraj&theme=radical&hide_border=true&background=000000&stroke=FFFFFF" width="48%"/>
 </p>
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amdadislam01&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=buildwithmeraj&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 </div>
 
 
 <p align="center" style="background-color: #000000; padding: 10px; border-radius: 5px;">
-  <img src="https://komarev.com/ghpvc/?username=amdadislam01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <a href="https://github.com/amdadislam01?tab=followers">
-    <img src="https://img.shields.io/github/followers/amdadislam01?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=buildwithmeraj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/buildwithmeraj?tab=followers">
+    <img src="https://img.shields.io/github/followers/buildwithmeraj?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/amdadislam01/amdadislam01">
-    <img src="https://img.shields.io/github/stars/amdadislam01?style=social" alt="GitHub Stars"/>
+  <a href="https://github.com/buildwithmeraj/buildwithmeraj">
+    <img src="https://img.shields.io/github/stars/buildwithmeraj?style=social" alt="GitHub Stars"/>
   </a>
 </p>
 
