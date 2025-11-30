@@ -124,7 +124,7 @@ I'm a passionate full stack developer from Bangladesh, specializing in modern we
     <img src="https://img.shields.io/github/followers/buildwithmeraj?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/buildwithmeraj/buildwithmeraj">
-    <img src="https://img.shields.io/github/stars/buildwithmeraj?style=social" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/buildwithmeraj?style=social" alt="GitHub Stars "/>
   </a>
 </p>
 
