@@ -34,7 +34,7 @@ I'm a passionate full stack developer from Bangladesh, specializing in modern we
 - 🌱 Currently mastering **Next.js** for modern web development
 - 💼 Portfolio: [meraj.pro](https://meraj.pro)
 - 💬 Let's talk about **JavaScript, React, Node.js, PHP, Laravel, MongoDB, MySQL**
-- 📧 Reach me: **buildwithmeraj@gmail.com**
+- 📧 Reach me: **merajulislam1206@gmail.com**
 
 ---
 
