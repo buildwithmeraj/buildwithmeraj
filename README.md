@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/XfxV7bfy/Black-and-White-Modern-Clean-Professional-Programmer-Linked-In-Background.jpg)
+![Banner](https://i.ibb.co.com/HTkP7Sxw/Black-and-White-Modern-Clean-Professional-Programmer-Linked-In-Background.png)
   
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=👋+Hello,+I'm+Merajul+Islam" alt="Typing SVG"></p>
 
